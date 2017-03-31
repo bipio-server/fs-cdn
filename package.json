@@ -1,6 +1,6 @@
 {
   "name": "fs-cdn",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "An adapter between fs and pkgcloud",
   "main": "index.js",
   "scripts": {
